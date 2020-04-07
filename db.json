@@ -1,6 +1,26 @@
 {
-    "id": 1,
-    "name": "Trinh Hoang Quan",
-    "age": 22,
-    "school": "FPT Polytechnic"
+    "users": [
+        {
+            "id": 1,
+            "name": "Trinh Hoang Quan",
+            "age": 22,
+            "school": "FPT Polytechnic"
+        },
+        {
+            "id": 2,
+            "name": "Trinh Van Hai",
+            "age": 22,
+            "school": "Back khoa Ha Noi"
+        }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "info": "ahihi"
+        },
+        {
+            "id": 2,
+            "info": "ahuhu"
+        }
+    ]
 }
